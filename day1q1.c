@@ -1,3 +1,4 @@
+Print "Hello Word"
 #include <stdio.h>
 
 int main() {
